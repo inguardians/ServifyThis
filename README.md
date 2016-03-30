@@ -1,6 +1,6 @@
 # ServifyThis
 
-###**ServifyThisUsage Instructions:**
+###**ServifyThis Usage Instructions:**
 
 ServifyThis will take any Win32 executable (either command-line or GUI) and wrap it into a new executable/service/installer program that will:
 
